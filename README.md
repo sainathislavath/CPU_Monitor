@@ -34,7 +34,7 @@ A simple Flask-based web application to monitor the current CPU usage of the sys
 
 Make sure you have the following installed:
 
-- Python 3.6+
+- Python 3.12+
 - pip (Python package manager)
 
 Install required Python packages:
